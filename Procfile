@@ -1,1 +1,1 @@
-web: index.ejs
+web: nodemon index.ejs
